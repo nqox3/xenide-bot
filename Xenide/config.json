@@ -1,0 +1,14 @@
+{
+  "bot_token": "6jepyEzhaG6RczK-nmwHRYegzXzSJCX4",
+  "prefix": "!",
+  "owner_id": "1188451513497034762",
+  "log_channel_id": "1375493881042305146",
+  "welcome_channel_id": "1375494023749435423",
+  "banned_roles": [],
+  "default_permissions": {
+    "kick_members": true,
+    "ban_members": true,
+    "manage_channels": false,
+    "manage_roles": false
+  }
+}
